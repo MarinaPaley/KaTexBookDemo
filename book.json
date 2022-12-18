@@ -1,0 +1,17 @@
+{
+    "gitbook": "3.x.x",
+
+    "title" : "Тестовая книга на GitHub",
+
+    "plugins" : ["katex"],
+
+    "root" : "source/",
+    "structure": {
+      "readme": "INTRODUCTION.md"
+    },
+
+    "pdf": {
+        "fontFamily": "Times New Roman",
+        "fontSize": 12
+    }
+}
